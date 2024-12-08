@@ -2,5 +2,7 @@
 CURSOR + LOCAL AI
 
 
-Uploading 1207-копия(4).mp4…
+
+
+https://github.com/user-attachments/assets/850ed2db-7f75-4b4a-a5dc-27ac3ffc2826
 
