@@ -5,5 +5,6 @@ CURSOR + LOCAL AI
 2.	Download NGROK 👉 https://ngrok.com/
 3.	Open LM STUDIO and follow the video guide below 👇
 
-https://github.com/user-attachments/assets/16579fe2-8a08-406a-a901-d45a38b270a5
+https://github.com/user-attachments/assets/eb12b8cc-246e-411d-b569-d7234eb8f2f3
+
 
